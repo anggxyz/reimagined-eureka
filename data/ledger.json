@@ -1,2 +1,2 @@
-{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000b9xlUoTOqKgVa6AztqJ4gQ\u0000","aliases":[],"id":"b9xlUoTOqKgVa6AztqJ4gQ","name":"SourceCred","subtype":"PROJECT"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1613954739134,"uuid":"9S6v6Zm0SemM6oR53UjjXQ","version":"1"}
-{"action":{"identityId":"b9xlUoTOqKgVa6AztqJ4gQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1613954739135,"uuid":"6dMzm2ZHQzjPNYW5ImrPjg","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000OBogIVX4qkF69EfYpbxqbw\u0000","aliases":[],"id":"OBogIVX4qkF69EfYpbxqbw","name":"SourceCred","subtype":"PROJECT"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1613869371423,"uuid":"amX7LzBw9EaEPUKUmAaeCQ","version":"1"}
+{"action":{"identityId":"OBogIVX4qkF69EfYpbxqbw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1613869371424,"uuid":"0r7Fy3RdhNPgG67okBbSqw","version":"1"}
