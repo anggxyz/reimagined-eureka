@@ -22,10 +22,11 @@ jobs:
           yarn --frozen-lockfile
 
       - name: Load Data and Compute Cred 🧮
-        run: yarn sourcecred go
+        run: yarn forked-sourcecred go
         env:
           SOURCECRED_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
+          SOURCECRED_SLACK_TOKEN: ${{ secrets.SOURCECRED_SLACK_TOKEN }}
 
       - name: Distribute Grain 💸
         run: yarn grain > grain_output.txt
