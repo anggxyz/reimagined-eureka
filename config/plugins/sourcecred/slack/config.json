@@ -1,0 +1,14 @@
+{
+  "name": "kernel-community",
+  "reactionWeightConfig": {
+    "defaultWeight": 1,
+    "weights": {
+      "rainbowheart": 50,
+      "seedling": 2
+    }
+  },
+  "channelWeightConfig": {
+    "defaultWeight": 1,
+    "weights": {}
+  }
+}
